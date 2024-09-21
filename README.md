@@ -1,16 +1,34 @@
-# quotes_app
+# Flutter Quotes App 📜✨
 
-A new Flutter project.
+A simple Flutter app to display a list of inspirational quotes using **ListView** and **GridView**, without the need for a database. This app uses a model class to structure the quotes and demonstrates basic Flutter UI components.
 
-## Getting Started
+![Flutter](https://img.shields.io/badge/Flutter-3.0-blue?style=for-the-badge&logo=flutter) ![Dart](https://img.shields.io/badge/Dart-2.18-blue?style=for-the-badge&logo=dart) ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
-This project is a starting point for a Flutter application.
+## 📱 Features
 
-A few resources to get you started if this is your first Flutter project:
+- Display quotes in both **ListView** and **GridView** layouts
+- Quotes are stored in a **List** (no database required)
+- Model class for structured data representation
+- Toggle between ListView and GridView easily
+- Minimal and clean UI
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 🔧 Technologies Used
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- **Flutter** for building the UI
+- **Dart** for application logic
+- No external databases or backend
+
+## 🚀 Getting Started
+
+To get started with this project, follow these instructions:
+
+### Prerequisites
+
+- [Flutter SDK](https://flutter.dev/docs/get-started/install)
+- Any IDE supporting Flutter development (VS Code, Android Studio, etc.)
+
+### Installation
+
+1. Clone the repo:
+   ```bash
+   git clone https://github.com/yourusername/flutter-quotes-app.git
